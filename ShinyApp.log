@@ -1,0 +1,8 @@
+library paths:
+... D:/1. Area 51.2/Niedner/R-Portable/App/R-Portable/library
+Loading required package: shiny
+Warning: package 'shiny' was built under R version 4.0.5
+Warning: package 'shinyWidgets' was built under R version 4.0.5
+Error: package or namespace load failed for 'shinyWidgets':
+ package 'jquerylib' was installed before R 4.0.0: please re-install it
+Execution halted
